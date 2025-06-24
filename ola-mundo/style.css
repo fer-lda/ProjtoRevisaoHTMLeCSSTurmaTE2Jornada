@@ -17,10 +17,23 @@ footer{
     border-top: 1px solid grey;
 }
 
-#nome-usuário{
+#nome-usuário {
     font-weight: bold;
+    transition: color 0.5s;
 }
 
-.texto-inglês{
-    font-style: italic;
+.azul {
+    color: blue;
+}
+
+.vermelho {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+.cinza {
+    color: gray;
 }
